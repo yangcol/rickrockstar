@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Rickrockstar::Application.config.secret_token = '240484b59365edb2c1aab2ca580da9143d2a6544fe7510d87393fb2d1379873f4d23565ebb35ff00a48c73fce5c048a96cae896816a4359bf3c841a8a60f2145'
+Rickrockstar::Application.config.secret_token = '50d5a5008e4cbedc27455792a8ea40e0fb5579e6968aee330cce9e00c2d0425a0ff45d7668237211b3c692156282a50325c9ae2e8c96cf9acb22da474b77c46c'
